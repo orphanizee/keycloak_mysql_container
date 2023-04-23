@@ -1,0 +1,5 @@
+nginx.key
+nginx.pem
+data/mysql/
+data/nginx/
+data/phpmyadmin/sessions/
